@@ -1,0 +1,55 @@
+.cabecera{
+	background-color: #529ABB;
+	text-align: center;
+	color: white;
+
+}
+
+.about{
+	text-align: center;
+}
+
+.botón{
+
+background-color: #008CBA;
+  border: none;
+  color: white;
+  padding: 1px 2px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 14px;
+  margin: 1px 1px;
+  cursor: pointer;
+}
+
+.fondo{
+	background-color: #F7F4F2;
+	text-align: center;
+}
+
+ 
+.botonv{
+  background-color: #529abb;
+  border: none;
+  color: white;
+  padding: 1px 1px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 15px;
+  margin: 1px 1px;
+  cursor: pointer;
+}
+.i1{
+
+	text-align: center;
+	align-items: center;
+	font-family: arial;
+}
+.texto{
+	color: white;
+	text-align: center;
+
+}
+
